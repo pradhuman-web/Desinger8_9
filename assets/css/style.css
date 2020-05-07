@@ -677,6 +677,8 @@ section {
   padding: 50px 30px;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   transition: all ease-in-out 0.3s;
+	margin: 23px;
+	text-align: justify;
 }
 
 .why-us .box span {
